@@ -1,0 +1,3 @@
+gcc diagnostico.c -o diagnostico -lm
+
+./diagnostico
