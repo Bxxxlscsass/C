@@ -1,0 +1,16 @@
+passo 1:
+
+caso não ter criado a pasta
+
+mkdir monitor-hardware
+cd monitor-hardware
+
+----------
+
+npm init -y
+npm install systeminformation
+
+passo 3:
+node app-completo.js 
+
+erros na memoria ram na carregagem de diagnostico
